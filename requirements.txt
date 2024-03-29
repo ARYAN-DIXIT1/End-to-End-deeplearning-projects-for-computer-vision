@@ -1,8 +1,7 @@
 bentoml
-torchvison
-joblib
-tqdm
-pip-chill
-wincertstore
-
+joblib==1.2.0
+pip-chill==1.0.1
+torchvision
+tqdm==4.64.1
+wincertstore==0.2
 -e .
